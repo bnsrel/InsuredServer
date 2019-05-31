@@ -1,0 +1,17 @@
+{
+  "name": "insuredserver",
+  "version": "1.0.0",
+  "description": "Server side for InsuredApp",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ariel Benesh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "mongoose": "^5.5.11",
+    "nodemon": "^1.19.0"
+  }
+}
